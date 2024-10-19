@@ -27,7 +27,7 @@ To run this project, you need to have Python 3.10 or higher installed on your ma
 git clone https://github.com/Vinayak-Pawar/MarioBot-SuperMario-Game-Playing-Agent.git
 ```
 ```
-conda create --name mario_learn python=3.10.12
+conda create --name mario_learn python=3.10
 ```
 #### Dependencies
 All required dependencies are listed in requirements.txt. Install them using:
