@@ -79,13 +79,13 @@ python generate_clips.py
 
 The First Hurdle Occured and AI Agent trying to learn how to jump and pass the pipe.
 
-[![Watch the video](https://i9.ytimg.com/vi/wB4-_LuuY5o/mqdefault.jpg?v=6713fe1a&sqp=CID6z7gG&rs=AOn4CLA8uafFWRPFW9O4ENlfDPjzmHFqJA)](https://www.youtube.com/watch?v=wB4-_LuuY5o)
+[![Watch the video](https://raw.githubusercontent.com/Vinayak-Pawar/MarioBot-SuperMario-Game-Playing-Agent/main/Media/Screenshot/Screenshot_1.png)](https://www.youtube.com/watch?v=wB4-_LuuY5o)
 
 
 here as you can see the AI Agent trying to pass the hurdles in a way as it is occuring 
 
 
-[![Watch the video](https://i9.ytimg.com/vi/xsnPpyd7PiY/mqdefault.jpg?v=6713fd35&sqp=CID6z7gG&rs=AOn4CLCUzZuAYp6gt6QJutmYuthoQUBuzw)](https://youtu.be/xsnPpyd7PiY)
+[![Watch the video](https://github.com/Vinayak-Pawar/MarioBot-SuperMario-Game-Playing-Agent/blob/main/Media/Screenshot/Screenshot_2.png)](https://youtu.be/xsnPpyd7PiY)
 
 ## Acknowledgements
 
